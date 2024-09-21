@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://socialify.git.ci/yashksaini-coder/Pet-Image-Classifier/image?description=1&descriptionEditable=Pet%27s%20Image%20classifier%20based%20on%20Resnet%20CNN%20model&font=Rokkitt&forks=1&issues=1&language=1&logo=https%3A%2F%2Fi.pinimg.com%2F564x%2F82%2F7c%2F62%2F827c62e991d31a57b8f369f473e70cea.jpg&name=1&owner=1&pattern=Solid&pulls=1&stargazers=1&theme=Light" alt="Pet-Image-Classifier" width="640" height="320" />
+    <img src="https://socialify.git.ci/yashksaini-coder/Pet-Image-Classifier/image?description=1&descriptionEditable=Pet%27s%20Image%20classifier%20based%20on%20Resnet%20CNN%20model&font=Rokkitt&forks=1&issues=1&language=0&logo=https%3A%2F%2Fi.pinimg.com%2F564x%2F82%2F7c%2F62%2F827c62e991d31a57b8f369f473e70cea.jpg&name=1&owner=1&pattern=Solid&pulls=1&stargazers=1&theme=Light" alt="Pet-Image-Classifier" width="640" height="320" />
 </div>
 <br>
 <div align='center'>
