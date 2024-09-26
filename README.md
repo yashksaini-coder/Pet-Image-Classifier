@@ -17,7 +17,7 @@
 
 # Pet Image Classifier
 
-Welcome to the Pet Image Classifier! This is a web application that leverages a ResNet Convolutional Neural Network (CNN) type model trained on the Oxford-IIIT Pet Images Dataset to accurately classify images of pets. The application is built using different frameworks and libraries such as Flask, TensorFlow.
+Welcome to the Pet Image Classifier! This is a web application that leverages a ResNet Convolutional Neural Network (CNN) type model trained on the Oxford-IIIT Pet Images Dataset to accurately classify images of pets. The application is built using different frameworks and libraries such as Streamlit, TensorFlow.
 
 ## Table of Contents
 
@@ -62,7 +62,7 @@ pip install -r requirements.txt
 3. Run the application.
     
 ```bash
-python app.py
+streamlit run app.py
 ```
 
 ### Prerequisites
