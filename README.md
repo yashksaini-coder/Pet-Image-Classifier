@@ -68,7 +68,6 @@ streamlit run app.py
 ### Prerequisites
 
 - Python 3.7+
-- Docker (optional, for containerized deployment)
 
 ## License
 
